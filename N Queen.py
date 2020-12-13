@@ -1,5 +1,5 @@
 import itertools as it
-##piece of code##
+##piece of code of a course##
 
 def is_solution(prem):
     for i1,i2 in it.combinations(range(len(prem)),2):
