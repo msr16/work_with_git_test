@@ -16,7 +16,7 @@ create_txt = """CREATE TABLE IF NOT EXISTS person_access_table(
                 """
 cursor.execute(create_txt)
 
-name = "محمد صدرا ریماز"
+name = "محمد سینا ریماز"
 iid = 12345668
 
 for i in range(1,21):
